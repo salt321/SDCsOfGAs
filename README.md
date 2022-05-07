@@ -21,7 +21,4 @@ Different conditions:
                                                       3 random FI
                                                       4 only do the FI and protect the knapsack initialize function initKnapsack)
                                                       
- Experiment data: in the folder: expData
- 
- repo Oknapsack: experiment toward the original dynamic programming knapsack methods
- repo Genetic: experiment toward the genetic method
+in code 
