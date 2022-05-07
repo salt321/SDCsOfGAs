@@ -21,4 +21,6 @@ Different conditions:
                                                       3 random FI
                                                       4 only do the FI and protect the knapsack initialize function initKnapsack)
                                                       
-in code 
+in codeSet: 
+            genetic- number(5,10,20) different inputs of genetic algorithm
+            knapsac- number(5,10,20) different inputs of knapsack algorithm
